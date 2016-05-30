@@ -1,4 +1,4 @@
-<p align="center">Information Retrieval</br>Boolean Query Processing</br>CSE 535 - Fall 2016
+<p align="center">Information Retrieval</br>Boolean Query Processing</br>CSE 535 - Fall 2015
 ==========================================================================================
 
 <p align="center">![Img_1](https://raw.githubusercontent.com/ramanpreet1990/CSE_535_Boolean_Query_Processing/master/Resources/1.png)
